@@ -1,4 +1,7 @@
- const sum=(a, b) => {
+export default const sum=(a, b) => {
   return a + b;
 }
-export default sum
+
+const mul=(a,b)=>{
+ return a * b;
+}
