@@ -3,10 +3,3 @@ export default {
     extensionsToTreatAsEsm: ['.js'],
     transform: {}
 }
-
-
-
-
-
-
-
