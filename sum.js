@@ -7,5 +7,3 @@ const mul=(a,b)=>{
 }
 
 
-
-
